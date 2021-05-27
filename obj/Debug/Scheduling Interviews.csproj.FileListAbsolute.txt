@@ -1,0 +1,26 @@
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\bin\Debug\Login\SchedulingDatabase.mdf
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\bin\Debug\Login\SchedulingDatabase_log.ldf
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\bin\Debug\Scheduling Interviews.exe.config
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\bin\Debug\Scheduling Interviews.exe
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\bin\Debug\Scheduling Interviews.pdb
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling_Interviews.Login.ApplicantForm.resources
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling_Interviews.LoginForm.resources
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling_Interviews.Login.OptionForm.resources
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling_Interviews.Schedule.NotifyForm.resources
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling_Interviews.Schedule.ProgressForm.resources
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling_Interviews.Login.ScheduleForm.resources
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling_Interviews.Login.SessionForm.resources
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling_Interviews.Properties.Resources.resources
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling_Interviews.scheduleUserControl.resources
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling_Interviews.SessionUserControl1.resources
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling Interviews.csproj.GenerateResource.Cache
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling Interviews.exe
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling Interviews.pdb
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling Interviews.csprojResolveAssemblyReference.cache
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling_Interviews.Schedule.Form1.resources
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\bin\Debug\TarmacSystem.dll
+C:\Users\Kriss\Documents\Scheduling\Scheduling Interviews\Scheduling Interviews\bin\Debug\TarmacSystem.pdb
+D:\4th\Projo\Scheduling Interviews\Scheduling Interviews\bin\Debug\Scheduling Interviews.exe.config
+D:\4th\Projo\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling Interviews.exe
+D:\4th\Projo\Scheduling Interviews\Scheduling Interviews\obj\Debug\Scheduling Interviews.pdb
